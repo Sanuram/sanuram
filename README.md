@@ -8,7 +8,7 @@ Welcome to my portfolio!
 I'm an undergraduate student in *Biomedical Technology*, passionate about bridging healthcare and technology to improve lives.
 
 👩‍🎓 About Me
-- 🎓 BHSc. in Biomedical Technology (Reading) 
+- 🎓 BHSc(Hons) in Biomedical Technology (Reading) 
 - 🏫 Gampaha Wickramarachchi University of Indeginous Medicine  
 - 🧠 Interests: Medical devices, clinical instrumentation, health informatics, and diagnostics  
 
@@ -17,7 +17,7 @@ I'm an undergraduate student in *Biomedical Technology*, passionate about bridgi
 - Academic Projects in Biomedical Instrumentation  
 - Research on Medical Imaging & Sensor Tech  
 - Internship & Lab Experience  
-- Certifications (e.g., Biomedical Equipment Handling, ISO standards)  
+- Certifications (Biomedical Equipment Handling, ISO standards, Computer Application Assistant (NVQ 3))  
 - Personal Reflections & Growth  
 
 
