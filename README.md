@@ -34,5 +34,3 @@ I'm an undergraduate student in *Biomedical Technology*, passionate about bridgi
 - GitHub: github.com/sanuram
 
 🔬 This portfolio is under development. Stay tuned for updates!
-
-Let me know if you want this as a PDF or need design help for your index.html file too.
